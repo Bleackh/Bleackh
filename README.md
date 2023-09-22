@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1642776898162/A0RiFSWR1.jpeg)]
+![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1642776898162/A0RiFSWR1.jpeg)
 <h1 align="center">Hi 👋, I'm Ahamad Faldhi Yudianto</h1>
 <h3 align="center">A passionate software engineer from Indonesia</h3>
 <img align="right" alt="Coding" width="280" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1380&t=st=1695367520~exp=1695368120~hmac=eab51ad3f83e614c924dd2971a012c73a9bfe7180f34c44ae212b55f98b2808c">
