@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bleackh&show_icons=true&layout=compact&hide=cmake,c%2B%2B,objective-c,php,starlark&bg_color=0d1117&text_color=fafafa&hide_border=true" alt="bleackh" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bleackh&show_icons=true&layout=compact&hide=cmake,c%2B%2B,objective-c,php,starlark,html,css,scss&bg_color=0d1117&text_color=fafafa&hide_border=true" alt="bleackh" />
 </p>
 
 <!---<p align="center">
