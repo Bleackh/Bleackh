@@ -35,3 +35,6 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=bleackh&theme=react-dark" />
   </a>
 </p>
+
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bleackh&show_icons=true&locale=en&layout=compact" alt="bleackh" /></p>
+
