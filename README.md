@@ -31,8 +31,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=bleackh&show_icons=true&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bleackh&theme=github-dark-blue&hide_border=true" />
     <img src="https://activity-graph.herokuapp.com/graph?username=bleackh&theme=react-dark" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bleackh&show_icons=true&locale=en&layout=compact&theme=github-dark-blue&hide_border=true" " alt="bleackh" />
   </a>
 </p>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bleackh&show_icons=true&locale=en&layout=compact" alt="bleackh" /></p>
+<p align="center"></p>
 
