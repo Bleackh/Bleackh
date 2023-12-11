@@ -30,16 +30,16 @@
   <a href="https://github.com/bleackh">
     <img src="https://github-readme-stats.vercel.app/api?username=bleackh&show_icons=true&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bleackh&theme=github-dark-blue&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=bleackh&theme=react-dark" />
   </a>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bleackh&show_icons=true&layout=compact&hide=cmake,c%2B%2B,objective-c,starlark,makefile&bg_color=0d1117&text_color=fafafa&hide_border=true" alt="bleackh" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bleackh&show_icons=true&layout=compact&hide=cmake,c%2B%2B,objective-c,starlark,makefile&theme=github_dark&hide_border=true" alt="bleackh" />
 </p>
 
 <!---<p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=bleackh&theme=react-dark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bleackh&show_icons=true&locale=en&layout=compact&theme=github-dark-blue&hide_border=true" " alt="bleackh" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bleackh&show_icons=true&layout=compact&hide=cmake,c%2B%2B,objective-c,starlark,makefile&bg_color=0d1117&text_color=fafafa&hide_border=true" alt="bleackh" />
 </p>-->
 
