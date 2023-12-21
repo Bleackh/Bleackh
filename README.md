@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **several projects**
 
-- 🌱 I’m currently learning **Docker, Data Science, Node.js, Flutter**
+- 🌱 I’m currently learning **Docker, Data Science, Node.js, Typescript, NEXT.Js, Flutter**
 
 - 📫 How to reach me **faldhi.works@gmail.com**
 
